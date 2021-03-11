@@ -3,7 +3,7 @@ SKH
 
 Here are steps to set up a simple webpage using `GitHub pages`.
 
-The URL is `<username>.github.io/<repo name>` so for this specific project the URL is [https://jbloomlab.github.io/SARS-CoV-2-RBD_MAP_Rockefeller/](https://jbloomlab.github.io/SARS-CoV-2-RBD_MAP_Rockefeller/).
+The URL is `<username>.github.io/<repo name>` so for this specific project the URL is [https://jbloomlab.github.io/SARS-CoV-2-RBD_MAP_RBD-nano-vax-NHP1/](https://jbloomlab.github.io/SARS-CoV-2-RBD_MAP_RBD-nano-vax-NHP1/).
 
 ## 1. Create a docs directory in your repo
 
