@@ -1,0 +1,16 @@
+# config file to make .pse files
+
+# define selection threshold
+threshold: sensitive_max_mut
+
+# sites to exclude as sites of strong escape
+exclude_sites: [361]
+
+# selection condition:name
+all_sera:
+  NHP-serum_1000: vaccinated NHP serum
+  24C_d32_200: human convalescent subject C (day 32)
+  25_d94_200: human convalescent subject G (day 94)
+  23C_d26_80: human convalescent subject I (day 26)
+
+ylim_file: ../results/escape_profiles/NHP_HCS_stackedlogo_ylims.csv

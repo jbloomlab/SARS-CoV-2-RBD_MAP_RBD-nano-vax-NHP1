@@ -1,0 +1,17 @@
+sample_lib,date,experiment,antibody,concentration,selection,cells_sorted,counts all variants,counts SARS-CoV-2 variants,counts:cells all variants,counts:cells SARS-CoV-2 variants
+"expt_46-52-none-0-reference, lib1",200917,expt_46-52,none,0,reference,,3.56e+07,3.53e+07,,
+"expt_46-52-none-0-reference, lib2",200917,expt_46-52,none,0,reference,,3.59e+07,3.56e+07,,
+"expt_34-41-none-0-reference, lib1",200910,expt_34-41,none,0,reference,,5.47e+07,5.41e+07,,
+"expt_34-41-none-0-reference, lib2",200910,expt_34-41,none,0,reference,,5.39e+07,5.35e+07,,
+"expt_24-33-none-0-reference, lib1",200904,expt_24-33,none,0,reference,,5.4e+07,5.34e+07,,
+"expt_24-33-none-0-reference, lib2",200904,expt_24-33,none,0,reference,,5.8e+07,5.75e+07,,
+"expt_107-116-none-0-reference, lib1",210216,expt_107-116,none,0,reference,,6.74e+07,6.67e+07,,
+"expt_107-116-none-0-reference, lib2",210216,expt_107-116,none,0,reference,,6.84e+07,6.78e+07,,
+"expt_46-23C_d26-80-escape, lib1",200917,expt_46,23C_d26,80,escape,450907.0,2.14e+06,1.67e+06,4.74011492392001,3.70736981240034
+"expt_46-23C_d26-80-escape, lib2",200917,expt_46,23C_d26,80,escape,649814.0,2.56e+06,2.24e+06,3.9399397366015507,3.4404121794852065
+"expt_35-24C_d32-200-escape, lib1",200910,expt_35,24C_d32,200,escape,569827.0,3.04e+06,2.62e+06,5.336375777209574,4.594445331653291
+"expt_35-24C_d32-200-escape, lib2",200910,expt_35,24C_d32,200,escape,507246.0,3.03e+06,2.62e+06,5.9648651738998435,5.174219215134274
+"expt_33-25_d94-200-escape, lib1",200904,expt_33,25_d94,200,escape,382787.0,2.14e+06,2.01e+06,5.584583593486717,5.250050289064153
+"expt_33-25_d94-200-escape, lib2",200904,expt_33,25_d94,200,escape,422273.0,2.43e+06,2.25e+06,5.758985300978277,5.339202364347235
+"expt_115-NHP-serum-1000-escape, lib1",210216,expt_115,NHP-serum,1000,escape,454104.0,3.62e+06,3.16e+06,7.965494688441415,6.958245247784649
+"expt_115-NHP-serum-1000-escape, lib2",210216,expt_115,NHP-serum,1000,escape,457684.0,3.68e+06,3.29e+06,8.041677227082442,7.181269172616915
