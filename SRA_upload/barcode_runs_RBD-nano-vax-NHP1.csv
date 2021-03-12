@@ -1,0 +1,5 @@
+library,sample,date,experiment,antibody,concentration,concentration_units,group,selection,frac_escape,cells_sorted,R1
+lib1,expt_107-116-none-0-reference,210216,expt_107-116,none,0,dilution,Moderna,reference,,,/shared/ngs/illumina/agreaney/210219_D00300_1182_AHKH22BCX3/Unaligned/Project_agreaney/expt_97-106_lib1_ref_*R1*.fastq.gz
+lib2,expt_107-116-none-0-reference,210216,expt_107-116,none,0,dilution,Moderna,reference,,,/shared/ngs/illumina/agreaney/210219_D00300_1182_AHKH22BCX3/Unaligned/Project_agreaney/expt_97-106_lib2_ref_*R1*.fastq.gz
+lib1,expt_115-NHP-serum-1000-escape,210216,expt_115,NHP-serum,1000,dilution,Lexi_vaccine,escape,0.047,454104,/shared/ngs/illumina/agreaney/210219_D00300_1182_AHKH22BCX3/Unaligned/Project_agreaney/expt_115_lib1_abneg_*R1*.fastq.gz
+lib2,expt_115-NHP-serum-1000-escape,210216,expt_115,NHP-serum,1000,dilution,Lexi_vaccine,escape,0.051,457684,/shared/ngs/illumina/agreaney/210219_D00300_1182_AHKH22BCX3/Unaligned/Project_agreaney/expt_115_lib2_abneg_*R1*.fastq.gz
